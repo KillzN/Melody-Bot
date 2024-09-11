@@ -1,4 +1,4 @@
-/* Creado por Bruno Sobrino (https://github.com/KillzN) */
+/* Creado por Bruno Sobrino (https://github.com/𝐗𝐢𝐦𝐞) */
 import fetch from 'node-fetch';
 import axios from 'axios';
 

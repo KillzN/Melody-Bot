@@ -689,7 +689,7 @@ Use: ${usedPrefix}glx
 
                         break;
                     case 'criador':
-                        let msgcriador = `🛈 *INFORMAÇÕES SOBRE CRIADOR:*\n\n👨 *_Criador do jogo Galáxia:_*\nhttps://github.com/jeffersonalionco\n\n👨 *_Criador do BOT:_*\nhttps://github.com/KillzN`
+                        let msgcriador = `🛈 *INFORMAÇÕES SOBRE CRIADOR:*\n\n👨 *_Criador do jogo Galáxia:_*\nhttps://github.com/jeffersonalionco\n\n👨 *_Criador do BOT:_*\nhttps://github.com/𝐗𝐢𝐦𝐞`
                         enviar(msgcriador)
                         break;
                     case 'atacar':
